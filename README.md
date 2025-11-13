@@ -40,6 +40,9 @@ To automate early-stage recruitment by reducing resume screening time, improving
 2️⃣ AI compares resumes with a given job description.
 3️⃣ The system generates skill summaries, match scores, and role recommendations.
 
+🪴 **Check out the live demo here:**
+👉 https://ai.studio/apps/drive/1yPWuekRM5W58WwzZja6chA3-szOPjkuY
+
 📚 **Future Improvements**
 
 Multi-resume comparison view
