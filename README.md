@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+)
+🧠 AI HR Recruiter
 
-# Run and deploy your AI Studio app
+Created by: Rohit Shivaji Patil
 
-This contains everything you need to run your app locally.
+An AI-powered recruitment automation web app designed to assist HR professionals in analyzing resumes, matching them with job descriptions, and generating job-fit scores — all within seconds.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1yPWuekRM5W58WwzZja6chA3-szOPjkuY
+🚀 Features
 
-## Run Locally
+📄 Upload candidate resumes in PDF, DOCX, or TXT format
 
-**Prerequisites:**  Node.js
+🧾 Paste a Job Description for role-based AI analysis
 
+🤖 AI extracts:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Candidate skills & education
+
+Suitable HR or domain-specific roles
+
+Job-fit score (1–10 scale)
+
+📊 View structured analysis in an interactive interface
+
+💡 Built using Google AI Studio (Gemini Model) for natural language processing
+
+🧰 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend / AI: Google AI Studio
+
+Integration: Google Sheets (for HR analytics and data tracking)
+
+🎯 Objective
+
+To automate early-stage recruitment by reducing resume screening time, improving shortlisting accuracy, and enhancing recruiter productivity through AI insights.
+
+🧩 Example Use Case
+
+1️⃣ HR uploads multiple resumes.
+2️⃣ AI compares resumes with a given job description.
+3️⃣ The system generates skill summaries, match scores, and role recommendations.
+
+📚 Future Improvements
+
+Multi-resume comparison view
+
+Candidate ranking dashboard
+
+Integration with LinkedIn or job portals
+
+Email automation for shortlisted candidates
+
+📸 Screenshots
+
+(Add the images you uploaded — like interface & result sections)
+
+👨‍💼 Author
+
+Rohit Shivaji Patil
+🎓 MBA – HR & Marketing | HR Tech Enthusiast | AI + HR Innovator
+📩 rohitspatil0308@gmail.com
+
