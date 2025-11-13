@@ -52,9 +52,9 @@ Email automation for shortlisted candidates
 
 
 
-👨‍💼 Author
+👨‍💼 **Author**
 
-Rohit Shivaji Patil
+**Rohit Shivaji Patil**
 🎓 MBA – HR & Marketing | HR Tech Enthusiast | AI + HR Innovator
 📩 rohitspatil0308@gmail.com
 
