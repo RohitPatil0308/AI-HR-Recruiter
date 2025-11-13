@@ -1,0 +1,5 @@
+{
+  "name": "AI HR Recruiter",
+  "description": "An AI-powered tool to analyze resumes, extracting key information like skills, experience, and suitability for job roles to streamline the recruitment process.",
+  "requestFramePermissions": []
+}
